@@ -28,7 +28,7 @@ namespace NumberGuesser
                 while (userInput != correctNumber)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Wrong Number!!! Please try again \a \n");
+                    Console.WriteLine("Wrong Number!!! Please try again.... \a \n");
                     Console.ResetColor();
 
                     input = Console.ReadLine();
