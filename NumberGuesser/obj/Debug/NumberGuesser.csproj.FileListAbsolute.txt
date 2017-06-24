@@ -1,0 +1,6 @@
+c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
