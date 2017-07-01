@@ -17,8 +17,7 @@ namespace NumberGuesser
             //This is where action begins
             while (true)
             {
-                Random random;
-                random = new Random();
+                Random random = new Random();
                 int correctNumber = random.Next(10) + 1;
 
                 Console.WriteLine("Guess a number between 1 and 10");
