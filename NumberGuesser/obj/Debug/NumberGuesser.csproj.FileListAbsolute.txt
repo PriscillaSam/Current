@@ -4,3 +4,9 @@ c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\
 c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
 c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
 c:\users\sam-iduh priscilla\documents\visual studio 2015\Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\numguesserfromPriscillaSam\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\numguesserfromPriscillaSam\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\numguesserfromPriscillaSam\NumberGuesser\obj\Debug\NumberGuesser.pdb
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\numguesserfromPriscillaSam\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\numguesserfromPriscillaSam\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\numguesserfromPriscillaSam\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
